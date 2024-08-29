@@ -1,0 +1,30 @@
+
+div {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: pink;
+    padding: 15px;
+    border-radius: 25px;
+    color: maroon;
+}
+
+.main {
+    margin-top: 50px;
+}
+
+.inner {
+    text-align: left;
+}
+
+body {
+    background-color: lightsalmon;
+    text-align: center;
+}
+
+li {
+    font-size: 22px;
+    font-weight: 500;
+    list-style-type: circle;
+}
